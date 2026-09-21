@@ -25,9 +25,9 @@
 - [x] Explicação sobre servidor e API
 - [x] Usuário e senha para teste
 - [x] Parágrafo explicando o uso de IA
-- [ ] Link definitivo do repositório da Sprint 4
+- [x] Link definitivo do repositório da Sprint 4
 - [ ] Link definitivo do deploy na Vercel
 - [x] `INTEGRANTES.TXT` com nomes completos e RMs
 - [x] Código-fonte e arquivos necessários para execução
 
-Os dois itens ainda não marcados dependem somente da publicação externa. O código já está preparado para Git e Vercel.
+O único item ainda não marcado depende da publicação na Vercel. O código já está preparado para esse deploy.
