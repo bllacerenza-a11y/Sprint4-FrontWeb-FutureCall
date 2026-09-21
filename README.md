@@ -82,7 +82,7 @@ A inteligência artificial foi utilizada como apoio durante a evolução da Spri
 ## Repositório e deploy
 
 - Repositório da Sprint 4: https://github.com/bllacerenza-a11y/Sprint3_Front_FutureCall
-- Deploy na Vercel: será incluído após a publicação da Sprint 4.
+- Deploy na Vercel: https://smarty-sprint4-publish.vercel.app
 
 ## Equipe FutureCall
 

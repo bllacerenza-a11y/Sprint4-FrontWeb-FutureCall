@@ -26,8 +26,8 @@
 - [x] Usuário e senha para teste
 - [x] Parágrafo explicando o uso de IA
 - [x] Link definitivo do repositório da Sprint 4
-- [ ] Link definitivo do deploy na Vercel
+- [x] Link definitivo do deploy na Vercel
 - [x] `INTEGRANTES.TXT` com nomes completos e RMs
 - [x] Código-fonte e arquivos necessários para execução
 
-O único item ainda não marcado depende da publicação na Vercel. O código já está preparado para esse deploy.
+Todos os itens técnicos e documentais foram conferidos antes da entrega.
